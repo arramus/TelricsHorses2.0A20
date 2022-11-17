@@ -1,4 +1,5 @@
 <configs>
+
 <append xpath="/lootcontainers/lootgroup[@name='seeds']">
 	<item name="foodApple" prob=".5"/>
 </append>
@@ -10,10 +11,5 @@
 <append xpath="/lootcontainers/lootgroup[@name='groupFoodTrash']"> <!-- Replaced farmCrops -->
 	<item name="foodApple" loot_prob_template="medLow"/>
 </append>
-
-
-
-
-
 
 </configs>
